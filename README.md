@@ -18,15 +18,14 @@
 
 ## 📄 CV
 - **PDF:** [Download CV](./CV.pdf)
-- **Mirror (optional):** https://www.dephensiva.eu/CV.pdf
 
 ---
 
 ## 🧰 Tech highlights
-- Common Criteria (EUCC), FIPS 140-3, ETSI/IEC — consulting & evaluations (EAL5+ track record)
+- Common Criteria (EUCC), FIPS 140-3, ETSI 303 645, IEC 62443-4-x — consulting & evaluations
 - Pentesting · Reverse engineering · Exploit development · Malware analysis
 - Languages: C, Python, AVR, JavaScript/HTML
-- DevOps/Infra: Docker, GitHub Actions (CI/CD)
+- DevOps/Infra: Docker, Kubernetes
 - Data/Cloud & AI: Spark, GCP, LLMs locally
 
 ---
@@ -42,27 +41,33 @@
 ---
 
 ## 🎤 Talks & publications (selected)
+
 - (EN) **ICCC24** (2024) — *Panel Discussion: How Will Native Cloud Migration Affect CC Certification?*
-- (EN) **ICCC23** (2023) — *Experiences evaluating cloud services and products*
+- (EN) **ICCC23** (2023) — *Experiences evaluating cloud services and products* · [slides (PDF)](assets/talks/experiences-evaluating-cloud-services-and-products.pdf)
+- (ES) **CriptoredCON** (2023) — *“Hacking your jeta!”* · [video](https://www.youtube.com/watch?v=0RfWk4B9PCY) · [slides (PDF)](assets/talks/hacking-your-jeta.pdf)
 - (ES) **XVII Jornadas CCN-CERT** (2023) — *¿Cómo evaluar soluciones biométricas para incluir videoidentificación en CPSTIC / CCN-STIC 105?*
 - (ES) **IoT Solutions World Congress** (2023) — *The secrets inside your IoT chip*
 - (EN) **EU CyberAct Conference** (2019) — *Comparing National Lightweight Methodologies around Europe*
-- (EN) **ICMC18** (2018) — *Spanish Catalogue of Qualified Products: A New Way Of Using CC For Procurement*
-- (EN) **ICCC** (2019, 2018, 2010, 2009) — CC statistics & methodology talks
+- (ES) **XIII Jornadas STIC CCN-CERT** (2019) — *“Los secretos de tu chip IoT”* · [video](https://www.youtube.com/watch?v=1VuY4fZUuYk) · [slides (PDF)](assets/talks/los-secretos-de-tu-chip-iot.pdf)
+- (ES) **CyberCamp** (2018) — *“De cómo terminé montando una empresa para dedicarme a la ciberseguridad”* · [video](https://www.youtube.com/watch?v=PZ-98i64VT0) · [slides (PDF)](assets/talks/cybercamp-empresa.pdf)
 - (ES) **El País** (2019) — *Incognito mode is not anonymity* · *When an app uses camera/mic/location*
+- (ES) **Navaja Negra** (2018) — *“Un breve viaje al Baremetal Hardware Hacking”* · [video](https://www.youtube.com/watch?v=sPcVE42JcRw)
+- (EN) **ICCC** (2010) — *“Overflowing attack potential: scoring & defence-in-depth”* · [slides](https://www.slideshare.net/javitallon/overflowing-attack-potential-scoring-defence-in-depth)
+
 
 ---
 
 ## 📬 Contact
 - Email: **jtallon@dephensiva.eu**
 - LinkedIn: https://www.linkedin.com/in/javitallon/
-- X/Twitter: **@javiertallon**
+- X/Twitter: **https://x.com/javiertallon**
 - Website: **https://www.dephensiva.eu**
 
 ---
 
 ## ✅ Open for consulting / mentoring / speaking
 I help vendors and teams navigate **Common Criteria / EUCC**, **FIPS 140-3**, and product security certifications end-to-end.
+**Also open to accompanying cybersecurity startups as a Business Angel.**
 
 ---
 
@@ -74,9 +79,11 @@ I help vendors and teams navigate **Common Criteria / EUCC**, **FIPS 140-3**, an
 ---
 
 ## 🔧 Uses / Setup
-- **Desktop:** custom quiet PC (be quiet! Silent Base 802), dual-boot **Ubuntu 22.04 LTS** + Windows
+- **Desktop:** custom quiet PC (be quiet! Silent Base 802)
+  - **GPU:** NVIDIA GeForce **RTX 5080** 
+  - **OS:** **Ubuntu 22.04 LTS** (for **local LLMs**) · **Windows** (for **4K gaming**)
 - **Display:** LG ultrawide 34" (3440×1440)
 - **Editor:** VS Code
 - **Tooling:** Docker, Git, GitHub Actions, n8n, ElevenLabs, Plaud
-- **Laptop:** MacBook Air (Apple Silicon)
+- **Laptop:** MacBook Air (Apple Silicon) M4
 
