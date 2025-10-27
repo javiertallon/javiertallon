@@ -52,7 +52,7 @@
 - (ES) **CyberCamp** (2018) — *De cómo terminé montando una empresa para dedicarme a la ciberseguridad* · [video](https://www.youtube.com/watch?v=PZ-98i64VT0) · [slides (PDF)](assets/talks/cybercamp-empresa.pdf)
 - (ES) **El País** (2019) — *Incógnito no es anonimato* · [link](https://elpais.com/tecnologia/2019/07/01/actualidad/1561972989_192816.html) · *Cuando una app usa cámara/mic/ubicación* · [link](https://elpais.com/tecnologia/2019/07/22/actualidad/1563812766_615649.html)
 - (ES) **Navaja Negra** (2018) — *Un breve viaje al Baremetal Hardware Hacking* · [video](https://www.youtube.com/watch?v=sPcVE42JcRw) · [slides (PDF)](assets/talks/navajanegra-baremetal-hardware-hacking.pdf)
-- (EN) **ICCC** (2010) — *Overflowing attack potential: scoring & defence-in-depth* · [slides](https://www.slideshare.net/javitallon/overflowing-attack-potential-scoring-defence-in-depth)
+- (EN) **ICCC** (2010) — *Overflowing attack potential: scoring & defence-in-depth* · [slides](assets/talks/overflowing-attack-potential-scoring-defence-in-depth.pdf)
 
 
 ---
@@ -84,6 +84,6 @@ Also open to accompanying cybersecurity startups as a **Business Angel**.
   - **OS:** **Ubuntu 22.04 LTS** (for **local LLMs**) · **Windows** (for **4K gaming**)
 - **Display:** LG ultrawide 34" (3440×1440)
 - **Editor:** VS Code
-- **Tooling:** Docker, Git, GitHub Actions, n8n, ElevenLabs, Plaud
+- **Tooling:** Docker, Git, Kubernetes, Home Assistant, Maestro, n8n, ElevenLabs
 - **Laptop:** MacBook Air (Apple Silicon) M4
 
