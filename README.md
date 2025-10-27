@@ -40,18 +40,18 @@
 
 ---
 
-## 🎤 Talks & publications (selected)
+## 🎤 Talks & Publications (selected)
 
-- (EN) **ICCC24** (2024) — *Panel Discussion: How Will Native Cloud Migration Affect CC Certification?*
+- (EN) **ICCC24** (2024) — *Panel Discussion: How Will Native Cloud Migration Affect CC Certification?* 
 - (EN) **ICCC23** (2023) — *Experiences evaluating cloud services and products* · [slides (PDF)](assets/talks/experiences-evaluating-cloud-services-and-products.pdf)
 - (ES) **CriptoredCON** (2023) — *“Hacking your jeta!”* · [video](https://www.youtube.com/watch?v=0RfWk4B9PCY) · [slides (PDF)](assets/talks/hacking-your-jeta.pdf)
-- (ES) **XVII Jornadas CCN-CERT** (2023) — *¿Cómo evaluar soluciones biométricas para incluir videoidentificación en CPSTIC / CCN-STIC 105?*
+- (ES) **XVII Jornadas CCN-CERT** (2023) — *¿Cómo evaluar soluciones biométricas para incluir videoidentificación en CPSTIC / CCN-STIC 105?* · [slides (PDF)](assets/talks/soluciones-biometricas-videoidentificacion-ccn-stic-105.pdf)
 - (ES) **IoT Solutions World Congress** (2023) — *The secrets inside your IoT chip*
-- (EN) **EU CyberAct Conference** (2019) — *Comparing National Lightweight Methodologies around Europe*
+- (EN) **EU CyberAct Conference** (2019) — *Comparing National Lightweight Methodologies around Europe* · [slides (PDF)](assets/talks/eu-cyberact-lw-methodologies-europe.pdf) · [agenda](https://eucyberact.org/conference-agenda-revised-10-30-19/)
 - (ES) **XIII Jornadas STIC CCN-CERT** (2019) — *“Los secretos de tu chip IoT”* · [video](https://www.youtube.com/watch?v=1VuY4fZUuYk) · [slides (PDF)](assets/talks/los-secretos-de-tu-chip-iot.pdf)
 - (ES) **CyberCamp** (2018) — *“De cómo terminé montando una empresa para dedicarme a la ciberseguridad”* · [video](https://www.youtube.com/watch?v=PZ-98i64VT0) · [slides (PDF)](assets/talks/cybercamp-empresa.pdf)
-- (ES) **El País** (2019) — *Incognito mode is not anonymity* · *When an app uses camera/mic/location*
-- (ES) **Navaja Negra** (2018) — *“Un breve viaje al Baremetal Hardware Hacking”* · [video](https://www.youtube.com/watch?v=sPcVE42JcRw)
+- (ES) **El País** (2019) — *Incógnito no es anonimato* · [artículo](https://elpais.com/tecnologia/2019/07/01/actualidad/1561972989_192816.html) · *Cuando una app usa cámara/mic/ubicación* · [artículo](https://elpais.com/tecnologia/2019/07/22/actualidad/1563812766_615649.html)
+- (ES) **Navaja Negra** (2018) — *“Un breve viaje al Baremetal Hardware Hacking”* · [video](https://www.youtube.com/watch?v=sPcVE42JcRw) · [slides (PDF)](assets/talks/navajanegra-baremetal-hardware-hacking.pdf)
 - (EN) **ICCC** (2010) — *“Overflowing attack potential: scoring & defence-in-depth”* · [slides](https://www.slideshare.net/javitallon/overflowing-attack-potential-scoring-defence-in-depth)
 
 
